@@ -5,7 +5,7 @@ tram anh
 * pkg install root-repo -y
 * pip install pycryptodome
 * pkg install git tsu python wpa-supplicant pixiewps iw openssl -y
-* git clone https://github.com/minhdongdasat1987/fixwifi.git
-* cd fixwifi
+* git clone https://github.com/minhdongdasat1987/vip.git
+* cd vip
 * chmod +x mlink.py
 * sudo python mlink.py -i wlan0 -K
